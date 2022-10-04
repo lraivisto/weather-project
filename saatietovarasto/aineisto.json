@@ -1,0 +1,2641 @@
+[
+  {
+    "nro": 1,
+    "nimi": "Tammikuu",
+    "paivia": 31,
+    "data": [
+      {
+        "paiva": 1,
+        "lampo": -5,
+        "sade": 42,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 2,
+        "lampo": -30,
+        "sade": 68,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 3,
+        "lampo": -1,
+        "sade": 35,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 4,
+        "lampo": 4,
+        "sade": 34,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 5,
+        "lampo": -34,
+        "sade": 10,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 6,
+        "lampo": -15,
+        "sade": 45,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 7,
+        "lampo": -30,
+        "sade": 0,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 8,
+        "lampo": -19,
+        "sade": 18,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 9,
+        "lampo": -10,
+        "sade": 64,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 10,
+        "lampo": -27,
+        "sade": 69,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 11,
+        "lampo": -29,
+        "sade": 37,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 12,
+        "lampo": -18,
+        "sade": 0,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 13,
+        "lampo": -21,
+        "sade": 0,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 14,
+        "lampo": -2,
+        "sade": 7,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 15,
+        "lampo": 0,
+        "sade": 49,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 16,
+        "lampo": 2,
+        "sade": 55,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 17,
+        "lampo": -34,
+        "sade": 47,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 18,
+        "lampo": -35,
+        "sade": 14,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 19,
+        "lampo": 4,
+        "sade": 18,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 20,
+        "lampo": -2,
+        "sade": 67,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 21,
+        "lampo": 7,
+        "sade": 31,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 22,
+        "lampo": 1,
+        "sade": 8,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 23,
+        "lampo": -17,
+        "sade": 32,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 24,
+        "lampo": -21,
+        "sade": 1,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 25,
+        "lampo": -34,
+        "sade": 45,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 26,
+        "lampo": 4,
+        "sade": 37,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 27,
+        "lampo": -16,
+        "sade": 6,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 28,
+        "lampo": -19,
+        "sade": 34,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 29,
+        "lampo": 4,
+        "sade": 12,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 30,
+        "lampo": -28,
+        "sade": 62,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 31,
+        "lampo": -14,
+        "sade": 18,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      }
+    ]
+  },
+  {
+    "nro": 2,
+    "nimi": "Helmikuu",
+    "paivia": 28,
+    "data": [
+      {
+        "paiva": 1,
+        "lampo": -14,
+        "sade": 50,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 2,
+        "lampo": 5,
+        "sade": 25,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 3,
+        "lampo": 3,
+        "sade": 0,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 4,
+        "lampo": 7,
+        "sade": 31,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 5,
+        "lampo": -17,
+        "sade": 45,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 6,
+        "lampo": 8,
+        "sade": 5,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 7,
+        "lampo": -16,
+        "sade": 30,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 8,
+        "lampo": -15,
+        "sade": 30,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 9,
+        "lampo": -13,
+        "sade": 34,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 10,
+        "lampo": 2,
+        "sade": 29,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 11,
+        "lampo": -8,
+        "sade": 42,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 12,
+        "lampo": 3,
+        "sade": 34,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 13,
+        "lampo": -26,
+        "sade": 29,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 14,
+        "lampo": -29,
+        "sade": 29,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 15,
+        "lampo": 0,
+        "sade": 4,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 16,
+        "lampo": -30,
+        "sade": 8,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 17,
+        "lampo": -3,
+        "sade": 14,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 18,
+        "lampo": -23,
+        "sade": 41,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 19,
+        "lampo": -8,
+        "sade": 23,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 20,
+        "lampo": -21,
+        "sade": 28,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 21,
+        "lampo": -10,
+        "sade": 43,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 22,
+        "lampo": -15,
+        "sade": 41,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 23,
+        "lampo": -29,
+        "sade": 17,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 24,
+        "lampo": -13,
+        "sade": 24,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 25,
+        "lampo": -18,
+        "sade": 12,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 26,
+        "lampo": 2,
+        "sade": 11,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 27,
+        "lampo": -15,
+        "sade": 4,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 28,
+        "lampo": -10,
+        "sade": 22,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      }
+    ]
+  },
+  {
+    "nro": 3,
+    "nimi": "Maaliskuu",
+    "paivia": 31,
+    "data": [
+      {
+        "paiva": 1,
+        "lampo": 1,
+        "sade": 11,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 2,
+        "lampo": -5,
+        "sade": 18,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 3,
+        "lampo": -14,
+        "sade": 37,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 4,
+        "lampo": 2,
+        "sade": 13,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 5,
+        "lampo": 2,
+        "sade": 43,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 6,
+        "lampo": -13,
+        "sade": 37,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 7,
+        "lampo": 12,
+        "sade": 34,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 8,
+        "lampo": 8,
+        "sade": 32,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 9,
+        "lampo": 10,
+        "sade": 8,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 10,
+        "lampo": 11,
+        "sade": 42,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 11,
+        "lampo": -14,
+        "sade": 37,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 12,
+        "lampo": -9,
+        "sade": 0,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 13,
+        "lampo": 14,
+        "sade": 6,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 14,
+        "lampo": -11,
+        "sade": 39,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 15,
+        "lampo": -12,
+        "sade": 39,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 16,
+        "lampo": 14,
+        "sade": 35,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 17,
+        "lampo": 12,
+        "sade": 5,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 18,
+        "lampo": -14,
+        "sade": 29,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 19,
+        "lampo": 1,
+        "sade": 24,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 20,
+        "lampo": 9,
+        "sade": 31,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 21,
+        "lampo": -11,
+        "sade": 12,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 22,
+        "lampo": 2,
+        "sade": 17,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 23,
+        "lampo": -14,
+        "sade": 32,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 24,
+        "lampo": -13,
+        "sade": 20,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 25,
+        "lampo": -15,
+        "sade": 7,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 26,
+        "lampo": 6,
+        "sade": 15,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 27,
+        "lampo": 9,
+        "sade": 20,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 28,
+        "lampo": -15,
+        "sade": 34,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 29,
+        "lampo": -1,
+        "sade": 21,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 30,
+        "lampo": -7,
+        "sade": 14,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 31,
+        "lampo": 0,
+        "sade": 15,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      }
+    ]
+  },
+  {
+    "nro": 4,
+    "nimi": "Huhtikuu",
+    "paivia": 30,
+    "data": [
+      {
+        "paiva": 1,
+        "lampo": 18,
+        "sade": 10,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 2,
+        "lampo": 11,
+        "sade": 32,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 3,
+        "lampo": 7,
+        "sade": 22,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 4,
+        "lampo": 13,
+        "sade": 3,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 5,
+        "lampo": 0,
+        "sade": 8,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 6,
+        "lampo": 4,
+        "sade": 1,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 7,
+        "lampo": -3,
+        "sade": 18,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 8,
+        "lampo": 8,
+        "sade": 11,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 9,
+        "lampo": -1,
+        "sade": 26,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 10,
+        "lampo": 5,
+        "sade": 27,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 11,
+        "lampo": -3,
+        "sade": 2,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 12,
+        "lampo": 6,
+        "sade": 30,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 13,
+        "lampo": 16,
+        "sade": 8,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 14,
+        "lampo": -4,
+        "sade": 11,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 15,
+        "lampo": 13,
+        "sade": 15,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 16,
+        "lampo": -4,
+        "sade": 14,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 17,
+        "lampo": 8,
+        "sade": 0,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 18,
+        "lampo": 6,
+        "sade": 3,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 19,
+        "lampo": 16,
+        "sade": 33,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 20,
+        "lampo": 0,
+        "sade": 20,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 21,
+        "lampo": 7,
+        "sade": 15,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 22,
+        "lampo": 6,
+        "sade": 3,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 23,
+        "lampo": 14,
+        "sade": 14,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 24,
+        "lampo": 13,
+        "sade": 4,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 25,
+        "lampo": 10,
+        "sade": 13,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 26,
+        "lampo": 18,
+        "sade": 17,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 27,
+        "lampo": -1,
+        "sade": 6,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 28,
+        "lampo": 10,
+        "sade": 11,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 29,
+        "lampo": 15,
+        "sade": 28,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 30,
+        "lampo": 11,
+        "sade": 25,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      }
+    ]
+  },
+  {
+    "nro": 5,
+    "nimi": "Toukokuu",
+    "paivia": 31,
+    "data": [
+      {
+        "paiva": 1,
+        "lampo": -5,
+        "sade": 50,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 2,
+        "lampo": 18,
+        "sade": 50,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 3,
+        "lampo": -1,
+        "sade": 16,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 4,
+        "lampo": 19,
+        "sade": 6,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 5,
+        "lampo": 9,
+        "sade": 55,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 6,
+        "lampo": 19,
+        "sade": 21,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 7,
+        "lampo": 1,
+        "sade": 26,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 8,
+        "lampo": -3,
+        "sade": 30,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 9,
+        "lampo": 4,
+        "sade": 63,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 10,
+        "lampo": 7,
+        "sade": 11,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 11,
+        "lampo": 14,
+        "sade": 15,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 12,
+        "lampo": 21,
+        "sade": 60,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 13,
+        "lampo": 4,
+        "sade": 45,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 14,
+        "lampo": 2,
+        "sade": 57,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 15,
+        "lampo": 4,
+        "sade": 11,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 16,
+        "lampo": -4,
+        "sade": 19,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 17,
+        "lampo": 14,
+        "sade": 17,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 18,
+        "lampo": 18,
+        "sade": 20,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 19,
+        "lampo": 23,
+        "sade": 58,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 20,
+        "lampo": 2,
+        "sade": 65,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 21,
+        "lampo": 4,
+        "sade": 48,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 22,
+        "lampo": 20,
+        "sade": 23,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 23,
+        "lampo": 16,
+        "sade": 44,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 24,
+        "lampo": 9,
+        "sade": 4,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 25,
+        "lampo": -1,
+        "sade": 18,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 26,
+        "lampo": 7,
+        "sade": 52,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 27,
+        "lampo": 18,
+        "sade": 8,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 28,
+        "lampo": 3,
+        "sade": 9,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 29,
+        "lampo": 3,
+        "sade": 56,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 30,
+        "lampo": 2,
+        "sade": 2,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 31,
+        "lampo": 15,
+        "sade": 10,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      }
+    ]
+  },
+  {
+    "nro": 6,
+    "nimi": "Kesä",
+    "paivia": 30,
+    "data": [
+      {
+        "paiva": 1,
+        "lampo": 12,
+        "sade": 48,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 2,
+        "lampo": 25,
+        "sade": 24,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 3,
+        "lampo": 12,
+        "sade": 53,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 4,
+        "lampo": 18,
+        "sade": 39,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 5,
+        "lampo": 11,
+        "sade": 15,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 6,
+        "lampo": 3,
+        "sade": 14,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 7,
+        "lampo": 12,
+        "sade": 26,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 8,
+        "lampo": 25,
+        "sade": 52,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 9,
+        "lampo": 20,
+        "sade": 0,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 10,
+        "lampo": 1,
+        "sade": 55,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 11,
+        "lampo": 13,
+        "sade": 9,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 12,
+        "lampo": 11,
+        "sade": 30,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 13,
+        "lampo": 19,
+        "sade": 39,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 14,
+        "lampo": 4,
+        "sade": 34,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 15,
+        "lampo": 7,
+        "sade": 30,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 16,
+        "lampo": 27,
+        "sade": 38,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 17,
+        "lampo": 14,
+        "sade": 35,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 18,
+        "lampo": 8,
+        "sade": 14,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 19,
+        "lampo": 24,
+        "sade": 22,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 20,
+        "lampo": 11,
+        "sade": 0,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 21,
+        "lampo": 26,
+        "sade": 44,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 22,
+        "lampo": 5,
+        "sade": 51,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 23,
+        "lampo": 27,
+        "sade": 49,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 24,
+        "lampo": 22,
+        "sade": 12,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 25,
+        "lampo": 22,
+        "sade": 47,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 26,
+        "lampo": 28,
+        "sade": 51,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 27,
+        "lampo": 28,
+        "sade": 8,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 28,
+        "lampo": 23,
+        "sade": 2,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 29,
+        "lampo": 4,
+        "sade": 30,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 30,
+        "lampo": 29,
+        "sade": 6,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      }
+    ]
+  },
+  {
+    "nro": 7,
+    "nimi": "Heinäkuu",
+    "paivia": 31,
+    "data": [
+      {
+        "paiva": 1,
+        "lampo": 13,
+        "sade": 23,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 2,
+        "lampo": 19,
+        "sade": 9,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 3,
+        "lampo": 28,
+        "sade": 2,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 4,
+        "lampo": 30,
+        "sade": 46,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 5,
+        "lampo": 28,
+        "sade": 43,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 6,
+        "lampo": 33,
+        "sade": 53,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 7,
+        "lampo": 5,
+        "sade": 28,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 8,
+        "lampo": 10,
+        "sade": 49,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 9,
+        "lampo": 13,
+        "sade": 49,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 10,
+        "lampo": 23,
+        "sade": 24,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 11,
+        "lampo": 7,
+        "sade": 1,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 12,
+        "lampo": 12,
+        "sade": 54,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 13,
+        "lampo": 8,
+        "sade": 15,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 14,
+        "lampo": 27,
+        "sade": 4,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 15,
+        "lampo": 11,
+        "sade": 33,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 16,
+        "lampo": 6,
+        "sade": 48,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 17,
+        "lampo": 30,
+        "sade": 45,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 18,
+        "lampo": 33,
+        "sade": 37,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 19,
+        "lampo": 24,
+        "sade": 52,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 20,
+        "lampo": 16,
+        "sade": 29,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 21,
+        "lampo": 24,
+        "sade": 53,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 22,
+        "lampo": 14,
+        "sade": 4,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 23,
+        "lampo": 22,
+        "sade": 10,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 24,
+        "lampo": 9,
+        "sade": 18,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 25,
+        "lampo": 19,
+        "sade": 38,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 26,
+        "lampo": 26,
+        "sade": 29,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 27,
+        "lampo": 10,
+        "sade": 5,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 28,
+        "lampo": 23,
+        "sade": 29,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 29,
+        "lampo": 17,
+        "sade": 52,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 30,
+        "lampo": 26,
+        "sade": 56,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 31,
+        "lampo": 9,
+        "sade": 7,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      }
+    ]
+  },
+  {
+    "nro": 8,
+    "nimi": "Elokuu",
+    "paivia": 31,
+    "data": [
+      {
+        "paiva": 1,
+        "lampo": 13,
+        "sade": 66,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 2,
+        "lampo": 27,
+        "sade": 21,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 3,
+        "lampo": 8,
+        "sade": 108,
+        "pilvisyys": 4,
+        "saatilaSymboli": "⛆"
+      },
+      {
+        "paiva": 4,
+        "lampo": 12,
+        "sade": 109,
+        "pilvisyys": 4,
+        "saatilaSymboli": "⛆"
+      },
+      {
+        "paiva": 5,
+        "lampo": 29,
+        "sade": 107,
+        "pilvisyys": 4,
+        "saatilaSymboli": "⛆"
+      },
+      {
+        "paiva": 6,
+        "lampo": 25,
+        "sade": 70,
+        "pilvisyys": 4,
+        "saatilaSymboli": "⛆"
+      },
+      {
+        "paiva": 7,
+        "lampo": 16,
+        "sade": 23,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 8,
+        "lampo": 5,
+        "sade": 66,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 9,
+        "lampo": 28,
+        "sade": 19,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 10,
+        "lampo": 18,
+        "sade": 30,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 11,
+        "lampo": 10,
+        "sade": 60,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 12,
+        "lampo": 19,
+        "sade": 52,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 13,
+        "lampo": 16,
+        "sade": 47,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 14,
+        "lampo": 28,
+        "sade": 43,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 15,
+        "lampo": 10,
+        "sade": 107,
+        "pilvisyys": 4,
+        "saatilaSymboli": "⛆"
+      },
+      {
+        "paiva": 16,
+        "lampo": 7,
+        "sade": 68,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 17,
+        "lampo": 21,
+        "sade": 61,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 18,
+        "lampo": 6,
+        "sade": 56,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 19,
+        "lampo": 6,
+        "sade": 111,
+        "pilvisyys": 4,
+        "saatilaSymboli": "⛆"
+      },
+      {
+        "paiva": 20,
+        "lampo": 21,
+        "sade": 47,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 21,
+        "lampo": 7,
+        "sade": 57,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 22,
+        "lampo": 16,
+        "sade": 9,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 23,
+        "lampo": 13,
+        "sade": 25,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 24,
+        "lampo": 14,
+        "sade": 88,
+        "pilvisyys": 4,
+        "saatilaSymboli": "⛆"
+      },
+      {
+        "paiva": 25,
+        "lampo": 21,
+        "sade": 95,
+        "pilvisyys": 4,
+        "saatilaSymboli": "⛆"
+      },
+      {
+        "paiva": 26,
+        "lampo": 29,
+        "sade": 7,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 27,
+        "lampo": 19,
+        "sade": 40,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 28,
+        "lampo": 10,
+        "sade": 84,
+        "pilvisyys": 4,
+        "saatilaSymboli": "⛆"
+      },
+      {
+        "paiva": 29,
+        "lampo": 19,
+        "sade": 82,
+        "pilvisyys": 4,
+        "saatilaSymboli": "⛆"
+      },
+      {
+        "paiva": 30,
+        "lampo": 16,
+        "sade": 107,
+        "pilvisyys": 4,
+        "saatilaSymboli": "⛆"
+      },
+      {
+        "paiva": 31,
+        "lampo": 21,
+        "sade": 39,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      }
+    ]
+  },
+  {
+    "nro": 9,
+    "nimi": "Syyskuu",
+    "paivia": 30,
+    "data": [
+      {
+        "paiva": 1,
+        "lampo": 3,
+        "sade": 24,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 2,
+        "lampo": 13,
+        "sade": 8,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 3,
+        "lampo": 7,
+        "sade": 39,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 4,
+        "lampo": 10,
+        "sade": 10,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 5,
+        "lampo": 18,
+        "sade": 30,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 6,
+        "lampo": 15,
+        "sade": 22,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 7,
+        "lampo": 10,
+        "sade": 15,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 8,
+        "lampo": 4,
+        "sade": 13,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 9,
+        "lampo": 10,
+        "sade": 28,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 10,
+        "lampo": 16,
+        "sade": 22,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 11,
+        "lampo": 8,
+        "sade": 12,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 12,
+        "lampo": 16,
+        "sade": 22,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 13,
+        "lampo": 0,
+        "sade": 3,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 14,
+        "lampo": 16,
+        "sade": 20,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 15,
+        "lampo": 1,
+        "sade": 26,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 16,
+        "lampo": 18,
+        "sade": 12,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 17,
+        "lampo": 7,
+        "sade": 7,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 18,
+        "lampo": 2,
+        "sade": 38,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 19,
+        "lampo": 3,
+        "sade": 32,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 20,
+        "lampo": 19,
+        "sade": 1,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 21,
+        "lampo": 18,
+        "sade": 18,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 22,
+        "lampo": 16,
+        "sade": 0,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 23,
+        "lampo": 19,
+        "sade": 2,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 24,
+        "lampo": 6,
+        "sade": 33,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 25,
+        "lampo": 18,
+        "sade": 24,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 26,
+        "lampo": 2,
+        "sade": 42,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 27,
+        "lampo": 5,
+        "sade": 30,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 28,
+        "lampo": 5,
+        "sade": 18,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 29,
+        "lampo": 5,
+        "sade": 1,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 30,
+        "lampo": 6,
+        "sade": 16,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      }
+    ]
+  },
+  {
+    "nro": 10,
+    "nimi": "Lokakuu",
+    "paivia": 31,
+    "data": [
+      {
+        "paiva": 1,
+        "lampo": -1,
+        "sade": 64,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 2,
+        "lampo": 11,
+        "sade": 51,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 3,
+        "lampo": 1,
+        "sade": 27,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 4,
+        "lampo": 9,
+        "sade": 52,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 5,
+        "lampo": -5,
+        "sade": 66,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 6,
+        "lampo": -5,
+        "sade": 6,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 7,
+        "lampo": 4,
+        "sade": 62,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 8,
+        "lampo": 10,
+        "sade": 4,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 9,
+        "lampo": 8,
+        "sade": 15,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 10,
+        "lampo": 8,
+        "sade": 7,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 11,
+        "lampo": 1,
+        "sade": 7,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 12,
+        "lampo": 6,
+        "sade": 3,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 13,
+        "lampo": 6,
+        "sade": 10,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 14,
+        "lampo": 1,
+        "sade": 55,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 15,
+        "lampo": 13,
+        "sade": 63,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 16,
+        "lampo": 13,
+        "sade": 58,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 17,
+        "lampo": 5,
+        "sade": 28,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 18,
+        "lampo": 3,
+        "sade": 34,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 19,
+        "lampo": 11,
+        "sade": 38,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 20,
+        "lampo": 2,
+        "sade": 34,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 21,
+        "lampo": -3,
+        "sade": 23,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 22,
+        "lampo": 10,
+        "sade": 8,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 23,
+        "lampo": 1,
+        "sade": 63,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 24,
+        "lampo": 0,
+        "sade": 0,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 25,
+        "lampo": 1,
+        "sade": 15,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 26,
+        "lampo": 10,
+        "sade": 61,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 27,
+        "lampo": 4,
+        "sade": 24,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 28,
+        "lampo": 6,
+        "sade": 9,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 29,
+        "lampo": 11,
+        "sade": 2,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 30,
+        "lampo": -1,
+        "sade": 9,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 31,
+        "lampo": 2,
+        "sade": 43,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      }
+    ]
+  },
+  {
+    "nro": 11,
+    "nimi": "Marraskuu",
+    "paivia": 30,
+    "data": [
+      {
+        "paiva": 1,
+        "lampo": 7,
+        "sade": 21,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 2,
+        "lampo": -8,
+        "sade": 36,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 3,
+        "lampo": 0,
+        "sade": 7,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 4,
+        "lampo": -10,
+        "sade": 56,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 5,
+        "lampo": -4,
+        "sade": 34,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 6,
+        "lampo": -3,
+        "sade": 9,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 7,
+        "lampo": -3,
+        "sade": 7,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 8,
+        "lampo": 1,
+        "sade": 28,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 9,
+        "lampo": 1,
+        "sade": 0,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 10,
+        "lampo": -7,
+        "sade": 53,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 11,
+        "lampo": 9,
+        "sade": 4,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 12,
+        "lampo": 4,
+        "sade": 18,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 13,
+        "lampo": 12,
+        "sade": 4,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 14,
+        "lampo": 8,
+        "sade": 37,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 15,
+        "lampo": -9,
+        "sade": 10,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 16,
+        "lampo": 12,
+        "sade": 14,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 17,
+        "lampo": -2,
+        "sade": 58,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 18,
+        "lampo": 7,
+        "sade": 24,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 19,
+        "lampo": -4,
+        "sade": 38,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 20,
+        "lampo": -10,
+        "sade": 42,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 21,
+        "lampo": 14,
+        "sade": 51,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 22,
+        "lampo": 9,
+        "sade": 54,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 23,
+        "lampo": 14,
+        "sade": 24,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 24,
+        "lampo": 14,
+        "sade": 35,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 25,
+        "lampo": 14,
+        "sade": 58,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 26,
+        "lampo": 14,
+        "sade": 59,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 27,
+        "lampo": -9,
+        "sade": 18,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 28,
+        "lampo": -3,
+        "sade": 67,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 29,
+        "lampo": -2,
+        "sade": 14,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 30,
+        "lampo": -4,
+        "sade": 18,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      }
+    ]
+  },
+  {
+    "nro": 12,
+    "nimi": "Joulukuu",
+    "paivia": 31,
+    "data": [
+      {
+        "paiva": 1,
+        "lampo": -13,
+        "sade": 30,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 2,
+        "lampo": -22,
+        "sade": 26,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 3,
+        "lampo": -33,
+        "sade": 51,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 4,
+        "lampo": -31,
+        "sade": 57,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 5,
+        "lampo": 1,
+        "sade": 11,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 6,
+        "lampo": 9,
+        "sade": 20,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 7,
+        "lampo": -5,
+        "sade": 8,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 8,
+        "lampo": -32,
+        "sade": 59,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 9,
+        "lampo": -12,
+        "sade": 54,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 10,
+        "lampo": 0,
+        "sade": 26,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 11,
+        "lampo": -18,
+        "sade": 28,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 12,
+        "lampo": -7,
+        "sade": 28,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 13,
+        "lampo": -6,
+        "sade": 55,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 14,
+        "lampo": -10,
+        "sade": 20,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 15,
+        "lampo": -22,
+        "sade": 33,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 16,
+        "lampo": 5,
+        "sade": 18,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 17,
+        "lampo": 6,
+        "sade": 9,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 18,
+        "lampo": -16,
+        "sade": 63,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 19,
+        "lampo": -22,
+        "sade": 4,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 20,
+        "lampo": -17,
+        "sade": 14,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 21,
+        "lampo": -3,
+        "sade": 40,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 22,
+        "lampo": -16,
+        "sade": 17,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 23,
+        "lampo": -25,
+        "sade": 64,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 24,
+        "lampo": -12,
+        "sade": 41,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 25,
+        "lampo": -15,
+        "sade": 21,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 26,
+        "lampo": 6,
+        "sade": 65,
+        "pilvisyys": 3,
+        "saatilaSymboli": "☂"
+      },
+      {
+        "paiva": 27,
+        "lampo": -6,
+        "sade": 26,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 28,
+        "lampo": -18,
+        "sade": 5,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      },
+      {
+        "paiva": 29,
+        "lampo": -18,
+        "sade": 30,
+        "pilvisyys": 2,
+        "saatilaSymboli": "☁"
+      },
+      {
+        "paiva": 30,
+        "lampo": 4,
+        "sade": 21,
+        "pilvisyys": 1,
+        "saatilaSymboli": "⛅"
+      },
+      {
+        "paiva": 31,
+        "lampo": -10,
+        "sade": 6,
+        "pilvisyys": 0,
+        "saatilaSymboli": "☀"
+      }
+    ]
+  }
+]

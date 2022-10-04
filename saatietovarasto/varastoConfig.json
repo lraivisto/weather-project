@@ -1,0 +1,5 @@
+{
+    "varastotiedosto":"aineisto.json",
+    "perusavain":"nro",
+    "varastokasittelija":"varastokasittelija.js"
+}

@@ -1,0 +1,8 @@
+{
+    "port":4000,
+    "host":"localhost",
+    "varastokirjastokansio":"varastokirjasto",
+    "varastokansio":"saatietovarasto",
+    "kirjastokansio":"kirjasto",
+    "resurssi":"aineisto"
+}
