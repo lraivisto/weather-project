@@ -1,8 +1,17 @@
 {
-    "port":4000,
+    "port":3000,
     "host":"localhost",
-    "varastokirjastokansio":"varastokirjasto",
-    "varastokansio":"saatietovarasto",
+    "varastokansio":"csvvarasto",
     "kirjastokansio":"kirjasto",
-    "resurssi":"aineisto"
+    "verkkosivut":{
+        "kansio":"sivut",
+        "valikko":"valikko.html",
+        "sivureitit":{
+            "/haeKaikkiSivu": "haeKaikki.html",
+            "/haeYksiSivu": "haeYksi.html",
+            "/lisaysSivu": "lisaa.html",
+            "/paivitysSivu": "paivita.html",
+            "/poistoSivu": "poista.html"
+        }   
+    }
 }

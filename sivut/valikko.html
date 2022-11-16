@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Pylväät</title>
+    <link rel="stylesheet" href="/tyylit/tyylit.css">
+    <style>
+        canvas{
+            border: 1px solid black;
+        }
+    </style>
+    <script>
+        let suure = 'lampo';
+        document.addEventListener('DOMContentLoaded', alusta);
+        function alusta(){
+            document.getElementById("nappi").addEventListener("click",paivita)
+            document.getElementById("lampo").addEventListener("click",()=>suure='lampo')
+            document.getElementById("sade").addEventListener("click",()=>suure='sade')
+        }
+        async function paivita(){
+            const kk = document.getElementById("kuukausi").value;
+            const data = await fetch(`http://localhost:4000/api/${suure}/aineisto/${kk}`,{mode:'cors'});
+            const jsondata= await data.json();
+            console.log (jsondata)
+            piirraPylvaat(jsondata);
+            document.getElementById("KA").textContent = "Keskiarvo on " + LaskeKeskiarvo(jsondata).toFixed(1);
+            const MinMaxArvot = MinMax(jsondata)
+            document.getElementById("Min").textContent = MinMaxArvot.Min;
+            document.getElementById("Max").textContent = MinMaxArvot.Max;
+        }
+        function LaskeKeskiarvo(data){
+            let summa = 0
+            for (let arvo of data){
+                summa += arvo
+            }
+            return summa / data.length;
+        }
+        function MinMax(data){
+            let taulukko = []
+            for (let arvo of data){
+                taulukko.push(arvo)
+            }
+            return {
+                Min: Math.min(...taulukko),
+                Max: Math.max(...taulukko)
+            }
+        }
+        function piirraPylvaat(data){
+            const piirtoalue=document.getElementById('piirtoalue');
+            const konteksti=piirtoalue.getContext('2d');
+            konteksti.clearRect(0,0, piirtoalue.width,piirtoalue.height);
+            konteksti.save();
+            konteksti.translate(10,150);
+            konteksti.fillStyle = 'blue';
+            // konteksti.scale(1.2, 1.2);
+            let x=10;
+            for(let arvo of data){
+                piirraPylvas(konteksti,x,arvo);
+                x += 30;
+  
+            }
+            konteksti.restore();
+        }
+
+        function piirraPylvas(konteksti,x,arvo){
+            console.log (x,arvo)
+            konteksti.save();
+            konteksti.fillStyle='red';
+            konteksti.fillRect(x, -arvo,20,arvo);
+            konteksti.fillStyle='black';
+            konteksti.fillText(arvo, x+5, -arvo-10);
+            konteksti.restore();
+        }
+
+        //valehtelin koskin silti hahaa
+    </script>
+</head>
+<body>
+    <h1>Säätilastoja</h1>
+    <p>Paina lämpö tai sade, sitten kirjoita kuukausi numero ja paina lähetä.</p>
+    <button id="lampo">lämpö</button>
+    <button id="sade">sade</button>
+    <p>
+    <input id="kuukausi" type="text" name="name" pattern="[0-12]" title="Kuukausi" /> 
+    <button id="nappi">lähetä</button>
+    </p>
+    <p>Keskiarvo: <span id="KA"></span></p>
+    <p>Pienin arvo: <span id="Min"></span></p>
+    <p>Suurin arvo: <span id="Max"></span></p>
+    <canvas id="piirtoalue" width="1000" height="300"></canvas>
+</body>
+</html>

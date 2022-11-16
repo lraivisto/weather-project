@@ -2,7 +2,7 @@
 
 const http = require('http');
 const path = require('path');
-let configTiedostonNimi = 'config.json';
+let configTiedostonNimi = 'config_rest.json';
 
 if (process.argv.length > 2) {
     configTiedostonNimi = process.argv[2];
