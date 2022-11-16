@@ -26,50 +26,43 @@ function kaynnistaPalvelin(config) {
     const palvelin = http.createServer(async (req, res) => {
         const { pathname } = new URL(`http://${host}:${port}${req.url}`);
         const reitti = decodeURIComponent(pathname);
-
         try {
             const metodi = req.method.toUpperCase();
             if (metodi === 'OPTIONS') {
                 lahetaOptionsVastaus(res);
-            }
-            else if (metodi === 'HEAD') {
-                let body = {};
-                if (reitti === `/api/${resurssi}`) {
-                    body = await tietovarasto.haeKaikki();
-                }
-                else if (reitti.startsWith(`/api/${resurssi}/`)) {
-                    const osat = reitti.split('/');
-                    if (osat.length > 3) {
-                        const perusavain = +osat[3];
-                        body = await tietovarasto.hae(perusavain);
-                    }
-                }
-                lahetaHead(res, body);
-            } else if (reitti === `/api/${resurssi}`) {
-                if (metodi === 'GET') {
+            } else if (metodi === `GET`) {
+                if (reitti === `/api/kaikki`) {
                     const tulos = await tietovarasto.haeKaikki();
                     lahetaJson(res, tulos);
-                }
-            } else if (reitti.startsWith(`/api/${resurssi}/`)) {
-                const osat = reitti.split('/');
-                if (osat.length > 3) {
+                } else if (reitti.startsWith(`/api/${resurssi}/`)) {
+                    const osat = reitti.split(`/`);
                     const perusavain = +osat[3];
-                    switch (metodi) {
-                        case 'GET':
-                            tietovarasto.hae(perusavain)
-                                .then(tulosGet => lahetaJson(res, tulosGet))
-                                .catch(virhe => lahetaJson(res, virhe));
-                            break;
-                        default:
-                            lahetaJson(res, { viesti: 'metodi ei käytössä' }, 405);
-                    }
+                    tietovarasto.hae2(perusavain)
+                        .then(tulosGet => lahetaJson(res, tulosGet))
+                        .catch(virhe => lahetaJson(res, virhe));
+                } else if (reitti.startsWith(`/api/lampo/${resurssi}`)) {
+                    const osat = reitti.split(`/`);
+                    const perusavain = +osat[4];
+                    tietovarasto.hae2(perusavain, `lampo`)
+                        .then(tulosGet => lahetaJson(res, tulosGet))
+                        .catch(virhe => lahetaJson(res, virhe));
+                } else if (reitti.startsWith(`/api/sade/${resurssi}/`)) {
+                    const osat = reitti.split(`/`);
+                    const perusavain = +osat[4];
+                    tietovarasto.hae2(perusavain, `sade`)
+                        .then(tulosGet => lahetaJson(res, tulosGet))
+                        .catch(virhe => lahetaJson(res, virhe));
+                } else if (reitti.startsWith(`/api/pilvisyys/${resurssi}`)) {
+                    const osat = reitti.split(`/`);
+                    const perusavain = +osat[4];
+                    tietovarasto.hae2(perusavain, `pilvisyys`)
+                        .then(tulosGet => lahetaJson(res, tulosGet))
+                        .catch(virhe => lahetaJson(res, virhe));
+                } else {
+                    lahetaJson(res, { viesti: 'resurssia ei ole' }, 405);
                 }
-            } else {
-                lahetaJson(res, { viesti: 'resurssia ei ole' }, 405);
             }
-        } catch (virhe) {
-            lahetaJson(res, { viesti: virhe.message }, 404);
-        }
+        } catch (virhe) { lahetaJson(res, { viesti: virhe.message }, 404); }
     });
     palvelin.listen(port, host, () => console.log(`${host}:${port} palvelee...`));
 }

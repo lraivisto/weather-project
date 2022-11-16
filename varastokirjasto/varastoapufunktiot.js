@@ -12,14 +12,32 @@ function luoVarastokerros(varastoKansioPolku) {
         return lueVarasto(varastoPolku);
     }
 
-    async function haeYksiVarastosta(arvo) {
+    async function haeYksiArvo(arvo, avain) {
+        const mdata = (await lueVarasto(varastoPolku)).find(olio => olio[perusavain] == arvo);
+        if (mdata) {
+            const datatable = [];
+            for (let paiva of mdata.data) {
+                if (avain === `lampo`) {
+                    datatable.push(paiva.lampo)
+                } else if (avain === `sade`) {
+                    datatable.push(paiva.sade)
+                } else if (avain === `pilvisyys`) {
+                    datatable.push(paiva.pilvisyys)
+                } else return mdata;
+            }
+            return datatable;
+        }
+        return [];
+    }
+    async function haeYksi(arvo) {
         return (await lueVarasto(varastoPolku))
             .find(olio => olio[perusavain] == arvo) || null;
     }
 
     return {
         haeKaikkiVarastosta,
-        haeYksiVarastosta,
+        haeYksi,
+        haeYksiArvo,
         perusavain
     }
 }
